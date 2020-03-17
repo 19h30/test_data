@@ -1,0 +1,190 @@
+[
+	{
+		"prefecture_code": "SA41",
+		"prefecture_name": "北海道"
+	},
+	{
+		"prefecture_code": "SA51",
+		"prefecture_name": "青森県"
+	},
+	{
+		"prefecture_code": "SA54",
+		"prefecture_name": "秋田県"
+	},
+	{
+		"prefecture_code": "SA55",
+		"prefecture_name": "山形県"
+	},
+	{
+		"prefecture_code": "SA52",
+		"prefecture_name": "岩手県"
+	},
+	{
+		"prefecture_code": "SA53",
+		"prefecture_name": "宮城県"
+	},
+	{
+		"prefecture_code": "SA56",
+		"prefecture_name": "福島県"
+	},
+	{
+		"prefecture_code": "SA11",
+		"prefecture_name": "東京都"
+	},
+	{
+		"prefecture_code": "SA12",
+		"prefecture_name": "神奈川県"
+	},
+	{
+		"prefecture_code": "SA13",
+		"prefecture_name": "埼玉県"
+	},
+	{
+		"prefecture_code": "SA14",
+		"prefecture_name": "千葉県"
+	},
+	{
+		"prefecture_code": "SA16",
+		"prefecture_name": "栃木県"
+	},
+	{
+		"prefecture_code": "SA15",
+		"prefecture_name": "茨城県"
+	},
+	{
+		"prefecture_code": "SA17",
+		"prefecture_name": "群馬県"
+	},
+	{
+		"prefecture_code": "SA61",
+		"prefecture_name": "新潟県"
+	},
+	{
+		"prefecture_code": "SA65",
+		"prefecture_name": "山梨県"
+	},
+	{
+		"prefecture_code": "SA66",
+		"prefecture_name": "長野県"
+	},
+	{
+		"prefecture_code": "SA63",
+		"prefecture_name": "石川県"
+	},
+	{
+		"prefecture_code": "SA62",
+		"prefecture_name": "富山県"
+	},
+	{
+		"prefecture_code": "SA64",
+		"prefecture_name": "福井県"
+	},
+	{
+		"prefecture_code": "SA33",
+		"prefecture_name": "愛知県"
+	},
+	{
+		"prefecture_code": "SA31",
+		"prefecture_name": "岐阜県"
+	},
+	{
+		"prefecture_code": "SA32",
+		"prefecture_name": "静岡県"
+	},
+	{
+		"prefecture_code": "SA34",
+		"prefecture_name": "三重県"
+	},
+	{
+		"prefecture_code": "SA24",
+		"prefecture_name": "兵庫県"
+	},
+	{
+		"prefecture_code": "SA23",
+		"prefecture_name": "大阪府"
+	},
+	{
+		"prefecture_code": "SA22",
+		"prefecture_name": "京都府"
+	},
+	{
+		"prefecture_code": "SA21",
+		"prefecture_name": "滋賀県"
+	},
+	{
+		"prefecture_code": "SA25",
+		"prefecture_name": "奈良県"
+	},
+	{
+		"prefecture_code": "SA26",
+		"prefecture_name": "和歌山県"
+	},
+	{
+		"prefecture_code": "SA73",
+		"prefecture_name": "岡山県"
+	},
+	{
+		"prefecture_code": "SA74",
+		"prefecture_name": "広島県"
+	},
+	{
+		"prefecture_code": "SA71",
+		"prefecture_name": "鳥取県"
+	},
+	{
+		"prefecture_code": "SA72",
+		"prefecture_name": "島根県"
+	},
+	{
+		"prefecture_code": "SA75",
+		"prefecture_name": "山口県"
+	},
+	{
+		"prefecture_code": "SA82",
+		"prefecture_name": "香川県"
+	},
+	{
+		"prefecture_code": "SA81",
+		"prefecture_name": "徳島県"
+	},
+	{
+		"prefecture_code": "SA83",
+		"prefecture_name": "愛媛県"
+	},
+	{
+		"prefecture_code": "SA84",
+		"prefecture_name": "高知県"
+	},
+	{
+		"prefecture_code": "SA91",
+		"prefecture_name": "福岡県"
+	},
+	{
+		"prefecture_code": "SA92",
+		"prefecture_name": "佐賀県"
+	},
+	{
+		"prefecture_code": "SA93",
+		"prefecture_name": "長崎県"
+	},
+	{
+		"prefecture_code": "SA94",
+		"prefecture_name": "熊本県"
+	},
+	{
+		"prefecture_code": "SA95",
+		"prefecture_name": "大分県"
+	},
+	{
+		"prefecture_code": "SA96",
+		"prefecture_name": "宮崎県"
+	},
+	{
+		"prefecture_code": "SA97",
+		"prefecture_name": "鹿児島県"
+	},
+	{
+		"prefecture_code": "SA98",
+		"prefecture_name": "沖縄県"
+	}
+]
